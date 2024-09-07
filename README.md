@@ -50,9 +50,3 @@ These features are crucial for understanding player behavior and predicting thei
 Make sure you have Python 3.x installed. Install dependencies using:
 ```bash
 pip install -r requirements.txt
-
-📈 Results
-You can compare the performance of different models using key metrics such as RMSE and R². The CatBoost model demonstrates higher accuracy for predicting win percentages compared to Linear Regression.
-
-🤝 Contribution
-Feel free to open issues or submit pull requests if you want to contribute to this project.
