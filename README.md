@@ -1,6 +1,7 @@
 # PUBG Game Prediction
 
-![PUBG Airplane GIF](https://raw.githubusercontent.com/yourusername/yourrepository/branchname/path-to-your-gif/pubg-airplane.gif)
+![PUBG Jump from Plane](https://w0.peakpx.com/wallpaper/505/66/HD-wallpaper-pubg-jump-from-plane-pubg-playerunknowns-battlegrounds-2018-games-games-thumbnail.jpg)
+
 
 
 ## Overview
