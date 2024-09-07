@@ -1,34 +1,39 @@
-# PUBG Game Prediction
+# 🎮 PUBG Game Prediction 🏆
 
 ![PUBG Jump from Plane](https://w0.peakpx.com/wallpaper/505/66/HD-wallpaper-pubg-jump-from-plane-pubg-playerunknowns-battlegrounds-2018-games-games-thumbnail.jpg)
 
+## 🚀 Overview
+This project aims to predict a player's **win percentage** in the popular game **PUBG** using various in-game statistics. By analyzing key features such as kills, assists, and damage dealt, the model helps forecast how well a player is expected to perform in a given match. This can be valuable for players looking to optimize their gameplay and understand their performance trends.
 
+## ✨ Features
+- 🧠 **Predict player win percentages** based on in-game statistics.
+- 📊 **Analyze critical data points** such as kills, assists, and damage dealt.
+- 🤖 **Compare the performance** of different machine learning models to find the most accurate one.
+- 🔍 **Feature importance insights** showing the impact on win percentage prediction.
 
-## Overview
-This project aims to predict a player's performance in the popular game **PUBG** using various in-game statistics. The model helps determine crucial aspects such as a player's expected placement in the game based on features like kills, assists, damage dealt, and more.
+## ⚙️ Models Used
+This project uses the following machine learning models:
+- **CatBoost Model**: A gradient boosting algorithm known for its high performance and accuracy.
+- **Linear Regression**: A basic regression technique used for comparison.
 
-## Features
-- Predict player win percentages using various machine learning models.
-- Analyze in-game statistics such as kills, assists, and damage dealt.
-- Compare different model performances for accuracy and precision.
+## 📈 Model Performance
+| Model                | RMSE  | R²    |
+|----------------------|-------|-------|
+| **CatBoost Model**   | 0.08  | 0.93  |
+| **Linear Regression** | 0.14  | 0.81  |
 
-## Models Used
-- **CatBoost Model**
-  - RMSE: 0.08
-  - R²: 0.93
-- **Linear Regression**
-  - RMSE: 0.14
-  - R²: 0.81
-
-## Dataset
-The dataset includes features such as:
+## 📂 Dataset
+The dataset includes a wide range of features such as:
 - `assists`
 - `kills`
 - `damageDealt`
 - `matchType`
-- `winPlacePerc`
+- `winPlacePerc` (the target variable for win percentage)
+- **etc.**
 
-## How to Run the Project
+These features are crucial for understanding player behavior and predicting their potential ranking in a match.
+
+## 🛠️ How to Run the Project
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/PUBG-GAME-PREDICTION.git
@@ -42,7 +47,7 @@ The dataset includes features such as:
     jupyter notebook PUBG_Prediction.ipynb
     ```
 
-## Installation
+## 💻 Installation
 Make sure you have Python 3.x installed. Install dependencies using:
 ```bash
 pip install -r requirements.txt
