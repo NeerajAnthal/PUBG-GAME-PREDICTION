@@ -1,4 +1,4 @@
 streamlit
 pandas
 catboost
-scikit-learn  # If you used it for any preprocessing
+scikit-learn 
