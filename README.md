@@ -3,8 +3,7 @@
 ![PUBG Jump from Plane](https://w0.peakpx.com/wallpaper/505/66/HD-wallpaper-pubg-jump-from-plane-pubg-playerunknowns-battlegrounds-2018-games-games-thumbnail.jpg)
 
 ## 🚀 Overview
-This project aims to predict a player's **win percentage** in the popular game **PUBG** using various in-game statistics. By analyzing key features such as kills, assists, and damage dealt, the model helps forecast how well a player is expected to perform in a given match. This can be valuable for players looking to optimize their gameplay and understand their performance trends.
-
+This project aims to **predict a player's probability of getting a chicken dinner** in the popular game **PUBG** using various in-game statistics. By analyzing key features such as kills, assists, and damage dealt, the model estimates the likelihood of a player winning a match. This can help players gauge their expected performance and refine their strategies.
 ## ✨ Features
 - 🧠 **Predict player win percentages** based on in-game statistics.
 - 📊 **Analyze critical data points** such as kills, assists, and damage dealt.
