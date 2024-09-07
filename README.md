@@ -1,6 +1,7 @@
 # PUBG Game Prediction
 
-![PUBG Airplane GIF](https://media1.tenor.com/m/AdcacnnbGCYAAAAC/pubg-airplane.gif)
+![PUBG Airplane GIF](https://raw.githubusercontent.com/yourusername/yourrepository/branchname/path-to-your-gif/pubg-airplane.gif)
+
 
 ## Overview
 This project aims to predict a player's performance in the popular game **PUBG** using various in-game statistics. The model helps determine crucial aspects such as a player's expected placement in the game based on features like kills, assists, damage dealt, and more.
