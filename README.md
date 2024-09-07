@@ -30,6 +30,8 @@ The dataset includes a wide range of features such as:
 - `winPlacePerc` (the target variable for win percentage)
 - **etc.**
 
+For details about the dataset, please refer to the [dataset_info.md](dataset_info.md) file.
+
 These features are crucial for understanding player behavior and predicting their potential ranking in a match.
 
 ## 🛠️ How to Run the Project
